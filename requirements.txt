@@ -1,0 +1,11 @@
+cdsapi
+python-dotenv
+pandas
+xarray
+netCDF4
+numpy
+matplotlib
+seaborn
+xgboost
+scikit-learn
+ipykernel
