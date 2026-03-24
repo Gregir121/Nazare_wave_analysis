@@ -1,45 +1,27 @@
-\# Nazare Wave Analysis \& Prediction
+# 🌊 Nazaré Wave Analysis & Prediction
 
-
-
-\[!\[Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-
-\[!\[ML Framework](https://img.shields.io/badge/ML-XGBoost-orange)](https://xgboost.readthedocs.io/)
-
-\[!\[Data Source](https://img.shields.io/badge/Data-Copernicus%20CDS-blue)](https://cds.climate.copernicus.eu/)
-
-
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![ML](https://img.shields.io/badge/ML-XGBoost-orange)
+![Data](https://img.shields.io/badge/Data-Copernicus-blue)
 
 Professional analysis of meterological data in the Nazare region of Portugal. Project includes data processing, graphing and predicting extreme events.
 
+## 🛠 Tech Stack
+* **Language:** Python 
+* **Data Analysis:** `Pandas`, `Xarray`, `NumPy`
+* **Visualization:** `Matplotlib`, `Seaborn`
+* **ML:** `XGBoost`, `Scikit-learn`
+* **Environment:** `python-dotenv` (API keys), `Jupyter Notebook`
 
+## 📂 Project Structure
+* `notebooks/` - Data cleaning, processing, EDA, and model training.
+* `data_processed/` - Sample of processed data files.
+* **[Nazare_Analysis_Report.pdf](./Nazare_Analysis_Report.pdf)** - **Full project report and results.**
+* `.env.example` - Template for API key configuration.
 
-\## Key functions of the project 
+## 🚀 First Instructions
 
-* \*\*Programming Language:\*\* Python 
-* \*\*Data Analysis:\*\* `Pandas`, `Xarray`, `NumPy`
-* \*\*Visualization:\*\* `Matplotlib`, `Seaborn`
-* \*\*ML:\*\* `XGBoost`, `Scikit-learn`
-* \*\*Other:\*\* `python-dotenv` (API-keys), `Jupyter Notebook`
-
-
-
-\## Project structure
-
-* `notebooks/` - Data cleaning, processing, EDA and predictions
-* `data\_processed/` - Batches of processed data ready for modeling
-* `Nazare\_Analysis\_Report.pdf` -  \*Full pdf describing the project\*
-* `.env.example` - API key configuration
-
-
-
-\## Instructions 
-
-
-
-To clone the repository, run:
-
+To clone this repository, run:
 ```bash
-
-git clone \[https://github.com/Gregir121/Nazare\_wave\_analysis.git](https://github.com/Gregir121/Nazare\_wave\_analysis.git)
+git clone [https://github.com/Gregir121/Nazare_wave_analysis.git](https://github.com/Gregir121/Nazare_wave_analysis.git)
 
